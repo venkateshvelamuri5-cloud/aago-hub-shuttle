@@ -1,0 +1,15 @@
+ADD THESE DEPENDENCIES TO YOUR package.json
+================================================
+
+npm install leaflet react-leaflet geohash-poly haversine
+
+OR
+
+Add to package.json "dependencies":
+  "leaflet": "^1.9.4",
+  "react-leaflet": "^4.2.1",
+  "geohash-poly": "^1.0.0",
+  "haversine": "^2.0.1"
+
+Then run: npm install
+================================================
